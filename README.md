@@ -49,9 +49,9 @@ This repository contains materials related to a scholarly and practical project 
 ## Contact
 For any inquiries, collaborations, or references:
 **Kathleen Ashbaker**  
-## Email: kashba@uw.edu 
-## LinkedIn: https://www.linkedin.com/in/kathleen-ashbaker-9b6745191/  
-## GitHub: [https://github.com/QueenKatherys](https://github.com/QueenKatherys)
+# Email: kashba@uw.edu 
+# LinkedIn: https://www.linkedin.com/in/kathleen-ashbaker-9b6745191/  
+# GitHub: [https://github.com/QueenKatherys](https://github.com/QueenKatherys)
 
 ## Citation
 If referencing this work, please use:
